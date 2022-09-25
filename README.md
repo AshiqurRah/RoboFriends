@@ -1,2 +1,2 @@
 # RoboFriends
-An Introduction project to React JS
+A React Project done out of fun
